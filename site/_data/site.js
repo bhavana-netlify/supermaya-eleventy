@@ -10,7 +10,7 @@ module.exports = {
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
-      background: "white",
+      background: "yellow",
       text: "black",
       highlight: "#666",
     },
